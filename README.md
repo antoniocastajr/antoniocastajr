@@ -1,9 +1,9 @@
-## 🚀 Antonio's coding path
+## 🧑‍💻 Antonio's coding path 🧑‍💻🛣️
 
 My journey into the world of coding began during my dual bachelor’s degree in Computer Science and Business, driven by a passion to understand every corner of programming. I started with Java, where I learned the foundations of data structures, classes, objects, and inheritance. Building on this base, I explored Assembler and C, guided by courses such as Operating Systems and Distributed Systems, which helped me see how these languages connect to the inner workings of computing. In the later years of my degree, I turned my focus to Python and the field of Data Science, an area that perfectly bridges my technical and business background, while also fueling my curiosity. Today, I continue this path by sharing projects on Data Science, AI Agents, and Large Language Models (LLMs) here on GitHub, documenting everything I learn along the way
 
 ---
-### 🧰 Languages and Tools
+### 🧰 Languages, Libraries and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -20,7 +20,7 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 <br />
 
-#
+---
 ### 🔭 Currently Working On  
 
 - 🤖 **[Naviria][naviria]** → A personal AI assistant that integrates **LLMs, memory, and external APIs** for smart task automation.
