@@ -38,12 +38,19 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 - 🧾 **[Fraud Detection Using PySpark][fraud]** → Credit card transactions were classified into fraud and non-fraud by analyzing client behavior through a **variety of machine learning models,** including Naive Bayes, Logistic Regression, SVM, Random Forest, XGBoost, and LightGBM. To support this process, **features were engineered and selected using correlation analysis, visual inspection, and chi-square tests,** ensuring that only the most relevant attributes were retained. These inputs were then integrated into end-to-end **pipelines,** which streamlined data transformations and automated predictions.
 
-  Building on these foundations, the **three best-performing models—Random Forest, XGBoost, and LightGBM—were combined into an ensemble using majority voting, leading to a 40.44% improvement in the F1-Score.** To provide transparency and deeper insights, model interpretability was finally addressed using the **SHAP library,** which explained feature contributions and the reasoning behind predictions.
+  Building on these foundations, the **three best-performing models—Random Forest, XGBoost, and LightGBM, were combined into an ensemble using majority voting, leading to a 40.44% improvement in the F1-Score.** To provide transparency and deeper insights, model interpretability was finally addressed using the **SHAP library,** which explained feature contributions and the reasoning behind predictions.
   
   <img width="1823" height="888" alt="image" src="https://github.com/user-attachments/assets/260d68b0-eae5-4e4a-bf44-546b2590e34c" />
 
 - 📝 **[Fine-tuning BERT from Scratch for Movie Review Classification][bert]** →
-- 🩺 **[Melanoma Detection with Convolutional Neural Networks (CNN)][melanoma]** →
+- 🩺 **[Melanoma Detection with Convolutional Neural Networks (CNN)][melanoma]** → Project developed for CS 512: Computer Vision at IIT. This repository implements **two different CNN architectures in Keras to detect melanoma cases.** The first model is inspired by the work of Aya Abu Ali and Hasan Al-Marzouqi presented at the [ICECTA Conference][icecta]. The second model was designed and implemented by me, **achieving a 11.38% improvement in F1-Score compared to the baseline, reaching 0.87.** To enhance performance, techniques such as **data augmentation and sampling were applied during training.**
+
+  <img width="1382" height="888" alt="image" src="https://github.com/user-attachments/assets/df281a17-2a3d-4878-958e-4b834e8d197d" />
+
+
+
+
+
 - 💬 **[Sentiment Analysis with Machine Learning Algorithms][sentiment]** →
 - 🌍 **[GeoespAIcial – Analysis of Gini][gini]** →
 
@@ -52,5 +59,6 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 [machine]: https://github.com/antoniocastajr/Machine-Learning-Algorithms-from-Scratch
 [bert]: https://github.com/antoniocastajr/Deep-Learning/tree/main/Project
 [melanoma]: https://github.com/antoniocastajr/Computer-Vision/tree/main/Project
+[icecta]: https://github.com/antoniocastajr/Computer-Vision/blob/main/Project/project/sources/Melanoma%20detection.pdf
 [sentiment]: https://github.com/antoniocastajr/Machine-Learning/tree/main/Project
 [gini]: https://github.com/antoniocastajr/SaturdaysAI
