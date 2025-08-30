@@ -13,7 +13,7 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 ---
 ## On Hold
 
-- 📘 **Machine Learning Algorithms from Scratch** → A hands-on project where I build classic **machine learning algorithms completely from scratch,** while also *breaking down the math and theory behind them.** So far, I’ve implemented *Linear Regression, Logistic Regression, Naive Bayes, and PCA.* This is an ongoing project, and whenever I get some free time, I plan to expand it with *Random Forest, SVM, and KNN.*
+- 📘 **Machine Learning Algorithms from Scratch** → A hands-on project where I build classic **machine learning algorithms completely from scratch,** while also **breaking down the math and theory behind them.** So far, I’ve implemented *Linear Regression, Logistic Regression, Naive Bayes, and PCA.* This is an ongoing project, and whenever I get some free time, I plan to expand it with *Random Forest, SVM, and KNN.*
 ---
 
 ## Projects that you should take a peak at
