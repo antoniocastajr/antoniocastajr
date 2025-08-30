@@ -1,4 +1,4 @@
-# 🚀 Antonio's coding path
+## 🚀 Antonio's coding path
 
 ---
 
@@ -6,17 +6,17 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 --- 
 
-## 🔭 Currently Working On  
+### 🔭 Currently Working On  
 
 - 🤖 **Naviria** → A personal AI assistant that integrates **LLMs, memory, and external APIs** for smart task automation.
   
 ---
-## On Hold
+### ✋ On Hold
 
 - 📘 **Machine Learning Algorithms from Scratch** → A hands-on project where I build classic **machine learning algorithms completely from scratch,** while also **breaking down the math and theory behind them.** So far, I’ve implemented *Linear Regression, Logistic Regression, Naive Bayes, and PCA.* This is an ongoing project, and whenever I get some free time, I plan to expand it with *Random Forest, SVM, and KNN.*
 ---
 
-## Projects that you should take a peak at
+### 🌟 Projects that you should take a peak at
 
 - 🧾 **Fraud Detection Using PySpark**
 - 📝 **Fine-tuning BERT from Scratch for Movie Review Classification**
