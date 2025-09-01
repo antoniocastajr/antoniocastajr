@@ -42,14 +42,20 @@ My journey into the world of coding began during my dual bachelor’s degree in 
   
   <img width="1823" height="888" alt="image" src="https://github.com/user-attachments/assets/260d68b0-eae5-4e4a-bf44-546b2590e34c" />
 
-- 📝 **[Fine-tuning BERT from Scratch for Movie Review Classification][bert]** →
+- 📝 **[Pre-training and Fine-tuning BERT from Scratch for Movie Review Classification][bert]** → BERT was the first deeply bidirectional model, unlike previous models that processed text only from left-to-right or right-to-left. To achieve this bidirectionality, it introduced two novel pre-training objectives: **Masked Language Modeling (MLM)**, where random tokens are hidden and predicted to capture context from both sides, and **Next Sentence Prediction (NSP),** which trains the model to understand sentence relationships.
+
+  Pre-training, including MLM and NSP, was performed from scratch using the **BookCorpus dataset.** Futhermore, BERT was then fine-tuned on the **IMDB dataset** (50,000 balanced movie reviews) for sentiment classification by adding a classification head on top of the transformer layers. The model achieved an **F1-Score of 0.7947.**
+
+  <img width="3840" height="585" alt="image" src="https://github.com/user-attachments/assets/aa4f3901-0174-4996-b4d5-d59af5e1b87e" />
+
+  <p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9969913f-4839-424a-bbf6-4c0c3db2c9d5" />
+  </p>
+
+  
 - 🩺 **[Melanoma Detection with Convolutional Neural Networks (CNN)][melanoma]** → Project developed for CS 512: Computer Vision at IIT. This repository implements **two different CNN architectures in Keras to detect melanoma cases.** The first model is inspired by the work of Aya Abu Ali and Hasan Al-Marzouqi presented at the [ICECTA Conference][icecta]. The second model was designed and implemented by me, **achieving a 11.38% improvement in F1-Score compared to the baseline, reaching 0.87.** To enhance performance, techniques such as **data augmentation and sampling were applied during training.**
 
   <img width="1382" height="888" alt="image" src="https://github.com/user-attachments/assets/df281a17-2a3d-4878-958e-4b834e8d197d" />
-
-
-
-
 
 - 💬 **[Sentiment Analysis with Machine Learning Algorithms][sentiment]** →
 
