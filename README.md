@@ -49,7 +49,7 @@ My journey into the world of coding began during my dual bachelor’s degree in 
   <img width="3840" height="585" alt="image" src="https://github.com/user-attachments/assets/aa4f3901-0174-4996-b4d5-d59af5e1b87e" />
 
   <p align="center">
-  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9969913f-4839-424a-bbf6-4c0c3db2c9d5" />
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9969913f-4839-424a-bbf6-4c0c3db2c9d5" />
   </p>
 
   
