@@ -52,7 +52,7 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 
 - 💬 **[Sentiment Analysis with Machine Learning Algorithms][sentiment]** →
-- 🌍 **[GeoespAIcial – Analysis of Gini][gini]** →
+
 
 [naviria]: https://github.com/antoniocastajr/Naviria
 [fraud]: https://github.com/antoniocastajr/Fraud-Detection-Using-PySpark
