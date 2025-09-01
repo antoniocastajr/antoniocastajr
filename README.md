@@ -44,7 +44,7 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 - 📝 **[Pre-training and Fine-tuning BERT from Scratch for Movie Review Classification][bert]** → BERT was the first deeply bidirectional model, unlike previous models that processed text only from left-to-right or right-to-left. To achieve this bidirectionality, it introduced two novel pre-training objectives: **Masked Language Modeling (MLM)**, where random tokens are hidden and predicted to capture context from both sides, and **Next Sentence Prediction (NSP),** which trains the model to understand sentence relationships.
 
-  Pre-training, including MLM and NSP, was performed from scratch using the **BookCorpus dataset.** Futhermore, BERT was then fine-tuned on the **IMDB dataset** (50,000 balanced movie reviews) for sentiment classification by adding a classification head on top of the transformer layers. The model achieved an **F1-Score of 0.7947.**
+  Pre-training, including MLM and NSP, was performed from scratch using the **[BookCorpus dataset.][bookcorpus]** Futhermore, BERT was then fine-tuned on the **[IMDB dataset][imdb]** (50,000 balanced movie reviews) for sentiment classification by adding a classification head on top of the transformer layers. The model achieved an **F1-Score of 0.7947.**
 
   <img width="3840" height="585" alt="image" src="https://github.com/user-attachments/assets/aa4f3901-0174-4996-b4d5-d59af5e1b87e" />
 
@@ -64,6 +64,8 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 [fraud]: https://github.com/antoniocastajr/Fraud-Detection-Using-PySpark
 [machine]: https://github.com/antoniocastajr/Machine-Learning-Algorithms-from-Scratch
 [bert]: https://github.com/antoniocastajr/Deep-Learning/tree/main/Project
+[bookcorpus]: https://huggingface.co/datasets/rojagtap/bookcorpus
+[imdb]: https://www.kaggle.com/datasets/mahmoudshaheen1134/imdp-data
 [melanoma]: https://github.com/antoniocastajr/Computer-Vision/tree/main/Project
 [icecta]: https://github.com/antoniocastajr/Computer-Vision/blob/main/Project/project/sources/Melanoma%20detection.pdf
 [sentiment]: https://github.com/antoniocastajr/Machine-Learning/tree/main/Project
