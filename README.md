@@ -63,7 +63,7 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 [naviria]: https://github.com/antoniocastajr/Naviria
 [fraud]: https://github.com/antoniocastajr/Fraud-Detection-Using-PySpark
 [machine]: https://github.com/antoniocastajr/Machine-Learning-Algorithms-from-Scratch
-[bert]: https://github.com/antoniocastajr/Deep-Learning/tree/main/Project
+[bert]: https://github.com/antoniocastajr/BERT-from-Scratch
 [bookcorpus]: https://huggingface.co/datasets/rojagtap/bookcorpus
 [imdb]: https://www.kaggle.com/datasets/mahmoudshaheen1134/imdp-data
 [melanoma]: https://github.com/antoniocastajr/Computer-Vision/tree/main/Project
