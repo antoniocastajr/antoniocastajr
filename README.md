@@ -26,7 +26,26 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 #### 🔭 Currently Working On  
 
-- 🤖 **[Naviria][naviria]** → A personal AI assistant that integrates **LLMs, memory, and external APIs** for smart task automation.
+- 🤖 **[Naviria][naviria]** A Telegram AI Agent Powered by LangGraph, RAG, and MCP
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-Deployment-26A5E4?logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-Agents-1F6FEB" />
+  <img src="https://img.shields.io/badge/LangGraph-Workflow-1F6FEB" />
+  <img src="https://img.shields.io/badge/mcp_use-Model%20Context%20Protocol-6E56CF" />
+  <img src="https://img.shields.io/badge/Tavily-Search Engine-6E56CF" />
+  <img src="https://img.shields.io/badge/EmbeddingGemma%20(Google)-Embeddings-005F73?logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-005F73" />
+</p>
+
+Naviria is a Telegram-native AI assistant I’m building to learn—and showcase—the core technologies behind modern AI agents. It combines LLM-driven reasoning, the [Model Context Protocol (MCP)][mcp] for pluggable tools, and [Retrieval-Augmented Generation (RAG)][rag] with embeddings and a vector store. Beyond simple Q&A, Naviria integrates a modular architecture and a selection of AI Agent's resources:
+
+- 🧩 **Advanced agentic logic:** Built on [LangGraph][langgraph], Naviria runs as a state machine, intelligently routing user requests across tools and knowledge sources.
+- 🔎 **Retrieval-Augmented Generation (RAG):** A self-updating knowledge base powered by a [FAISS][faiss] vector store and Google’s high-performance [EmbeddingGemma][embedder] model for document embeddings.
+- 🛰️ **Model Context Protocol (MCP):** Seamlessly connects to external tools like [Tavily Search][tavily] to fetch fresh web data and enrich the knowledge base in real time.
+- 🧠 **Personalized long-term memory:** Maintains persistent [memory][memory] per user for contextual, personalized conversations.
+- 🔀 **Flexible LLM integration:** Works with multiple models—OpenAI (e.g., [gpt-5-nano][gpt5nano], [gpt-4.1-nano][gpt41nano], [gpt-4o-mini][gpt4omini]) and open-source via Ollama (e.g., [llama3.1:8b][llama], [gpt-oss:20b][gtposs]).
 
 #
 #### ✋ On Hold
@@ -61,6 +80,18 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 
 [naviria]: https://github.com/antoniocastajr/Naviria
+[mcp]: https://modelcontextprotocol.io/docs/getting-started/intro
+[rag]: https://arxiv.org/pdf/2005.11401
+[langgraph]: https://python.langchain.com/docs/introduction/
+[faiss]: https://python.langchain.com/docs/integrations/vectorstores/faiss/
+[embedder]: https://huggingface.co/blog/embeddinggemma
+[tavily]: https://docs.tavily.com/documentation/mcp
+[memory]: https://langchain-ai.github.io/langgraph/how-tos/memory/add-memory/
+[gpt5nano]: https://platform.openai.com/docs/models/gpt-5-nano
+[gpt41nano]: https://platform.openai.com/docs/models/gpt-4.1-nano
+[gpt4omini]: https://platform.openai.com/docs/models/gpt-4o-mini
+[llama]: https://ollama.com/library/llama3.1
+[gtposs]: https://ollama.com/library/gpt-oss
 [fraud]: https://github.com/antoniocastajr/Fraud-Detection-Using-PySpark
 [machine]: https://github.com/antoniocastajr/Machine-Learning-Algorithms-from-Scratch
 [bert]: https://github.com/antoniocastajr/BERT-from-Scratch
