@@ -26,26 +26,16 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 #### 🔭 Currently Working On  
 
-- 🤖 **[Naviria][naviria]** A Telegram AI Agent Powered by LangGraph, RAG, and MCP
+- 🤖 **[Naviria: A Telegram AI Agent Powered by LangGraph, RAG, and MCP][naviria]** Naviria is a Telegram-native AI assistant I’m building to learn—and showcase—the core technologies behind modern AI agents. It combines LLM-driven reasoning, the [Model Context Protocol (MCP)][mcp] for pluggable tools, and [Retrieval-Augmented Generation (RAG)][rag] with embeddings and a vector store. Beyond simple Q&A, Naviria integrates a modular architecture and a selection of AI Agent's resources:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-Deployment-26A5E4?logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-Agents-1F6FEB" />
-  <img src="https://img.shields.io/badge/LangGraph-Workflow-1F6FEB" />
-  <img src="https://img.shields.io/badge/mcp_use-Model%20Context%20Protocol-6E56CF" />
-  <img src="https://img.shields.io/badge/Tavily-Search Engine-6E56CF" />
-  <img src="https://img.shields.io/badge/EmbeddingGemma%20(Google)-Embeddings-005F73?logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-005F73" />
-</p>
+  - 🧩 **Advanced agentic logic:** Built on [LangGraph][langgraph], Naviria runs as a state machine, intelligently routing user requests across tools and knowledge sources.
+  - 🔎 **Retrieval-Augmented Generation (RAG):** A self-updating knowledge base powered by a [FAISS][faiss] vector store and Google’s high-performance [EmbeddingGemma][embedder] model for document embeddings.
+  - 🛰️ **Model Context Protocol (MCP):** Seamlessly connects to external tools like [Tavily Search][tavily] to fetch fresh web data and enrich the knowledge base in real time.
+  - 🧠 **Personalized long-term memory:** Maintains persistent [memory][memory] per user for contextual, personalized conversations.
+  - 🔀 **Flexible LLM integration:** Works with multiple models—OpenAI (e.g., [gpt-5-nano][gpt5nano], [gpt-4.1-nano][gpt41nano], [gpt-4o-mini][gpt4omini]) and open-source via Ollama (e.g., [llama3.1:8b][llama], [gpt-oss:20b][gtposs]).
 
-Naviria is a Telegram-native AI assistant I’m building to learn—and showcase—the core technologies behind modern AI agents. It combines LLM-driven reasoning, the [Model Context Protocol (MCP)][mcp] for pluggable tools, and [Retrieval-Augmented Generation (RAG)][rag] with embeddings and a vector store. Beyond simple Q&A, Naviria integrates a modular architecture and a selection of AI Agent's resources:
+<img width="3840" height="302" alt="Untitled diagram _ Mermaid Chart-2025-09-08-184056" src="https://github.com/user-attachments/assets/2f97db86-8f36-4b80-8d26-7b21bfb6fa64" />
 
-- 🧩 **Advanced agentic logic:** Built on [LangGraph][langgraph], Naviria runs as a state machine, intelligently routing user requests across tools and knowledge sources.
-- 🔎 **Retrieval-Augmented Generation (RAG):** A self-updating knowledge base powered by a [FAISS][faiss] vector store and Google’s high-performance [EmbeddingGemma][embedder] model for document embeddings.
-- 🛰️ **Model Context Protocol (MCP):** Seamlessly connects to external tools like [Tavily Search][tavily] to fetch fresh web data and enrich the knowledge base in real time.
-- 🧠 **Personalized long-term memory:** Maintains persistent [memory][memory] per user for contextual, personalized conversations.
-- 🔀 **Flexible LLM integration:** Works with multiple models—OpenAI (e.g., [gpt-5-nano][gpt5nano], [gpt-4.1-nano][gpt41nano], [gpt-4o-mini][gpt4omini]) and open-source via Ollama (e.g., [llama3.1:8b][llama], [gpt-oss:20b][gtposs]).
 
 #
 #### ✋ On Hold
