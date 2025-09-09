@@ -36,6 +36,16 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 <img width="3840" height="302" alt="Untitled diagram _ Mermaid Chart-2025-09-08-184056" src="https://github.com/user-attachments/assets/2f97db86-8f36-4b80-8d26-7b21bfb6fa64" />
 
+<p align="center">
+  <video
+    src="https://github.com/user-attachments/assets/03abb5a3-eb72-4c82-a20d-348b1484bc75"
+    controls
+    muted
+    playsinline
+    loop
+    width="720">
+  </video>
+</p>
 
 #
 #### ✋ On Hold
