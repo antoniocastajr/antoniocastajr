@@ -26,7 +26,7 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 #### 🔭 Currently Working On  
 
-- 🤖 **[Naviria: A Telegram AI Agent Powered by LangGraph, RAG, and MCP][naviria]** Naviria is a Telegram-native AI assistant I’m building to learn and showcase the core technologies behind modern AI agents. It combines LLM-driven reasoning by [LangGraph][langgraph], [Model Context Protocol (MCP)][mcp] for pluggable tools, and [Retrieval-Augmented Generation (RAG)][rag] with embeddings and a vector store. In detail, Naviria integrates the next selection of AI Agent's resources:
+- 🤖 **[Naviria: A Telegram AI Agent Powered by LangGraph, RAG, and MCP][naviria]** → Naviria is a Telegram-native AI assistant I’m building to learn and showcase the core technologies behind modern AI agents. It combines LLM reasoning by [LangGraph][langgraph], [Model Context Protocol (MCP)][mcp] for pluggable tools, and [Retrieval-Augmented Generation (RAG)][rag] with embeddings and a vector store. In detail, Naviria integrates the next selection of AI Agent's resources:
 
   - 🧩 **Advanced agentic logic:** Built on [LangGraph][langgraph], Naviria runs as a state machine, intelligently routing user requests across tools and knowledge sources.
   - 🔎 **Retrieval-Augmented Generation (RAG):** A self-updating knowledge base powered by a [FAISS][faiss] vector store and Google’s high-performance [EmbeddingGemma][embedder] model for document embeddings.
@@ -57,7 +57,7 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 - 🧾 **[Fraud Detection Using PySpark][fraud]** → Credit card transactions were classified into fraud and non-fraud by analyzing client behavior through a **variety of machine learning models,** including Naive Bayes, Logistic Regression, SVM, Random Forest, XGBoost, and LightGBM. To support this process, **features were engineered and selected using correlation analysis, visual inspection, and chi-square tests,** ensuring that only the most relevant attributes were retained. These inputs were then integrated into end-to-end **pipelines,** which streamlined data transformations and automated predictions.
 
-  Building on these foundations, the **three best-performing models—Random Forest, XGBoost, and LightGBM, were combined into an ensemble using majority voting, leading to a 40.44% improvement in the F1-Score.** To provide transparency and deeper insights, model interpretability was finally addressed using the **SHAP library,** which explained feature contributions and the reasoning behind predictions.
+  Building on these foundations, the **three best performing models (Random Forest, XGBoost, and LightGBM) were combined into an ensemble using majority voting, leading to a 40.44% improvement in the F1-Score.** To provide transparency and deeper insights, model interpretability was finally addressed using the **SHAP library,** which explained feature contributions and the reasoning behind predictions.
   
   <img width="1823" height="888" alt="image" src="https://github.com/user-attachments/assets/260d68b0-eae5-4e4a-bf44-546b2590e34c" />
 
