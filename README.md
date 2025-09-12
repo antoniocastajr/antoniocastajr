@@ -70,7 +70,7 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 | **F1-Score**    |   0.0186    |        0.3332       |     0.7174    | 0.2877 |  0.5263 |  0.6582  |           0.7391            |
 
 <p align="center">
-<img width="760" height="771" alt="image" src="https://github.com/user-attachments/assets/f9518ac7-3f87-4e39-bee5-cf2589e222ad" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f9518ac7-3f87-4e39-bee5-cf2589e222ad" />
 </p>
 
 - 📝 **[Pre-training and Fine-tuning BERT from Scratch for Movie Review Classification][bert]** → BERT was the first deeply bidirectional model, unlike previous models that processed text only from left-to-right or right-to-left. To achieve this bidirectionality, it introduced two novel pre-training objectives: **Masked Language Modeling (MLM)**, where random tokens are hidden and predicted to capture context from both sides, and **Next Sentence Prediction (NSP),** which trains the model to understand sentence relationships.
