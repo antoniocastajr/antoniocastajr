@@ -57,9 +57,21 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 - 🧾 **[Fraud Detection Using PySpark][fraud]** → Credit card transactions were classified into fraud and non-fraud by analyzing client behavior through a **variety of machine learning models,** including Naive Bayes, Logistic Regression, SVM, Random Forest, XGBoost, and LightGBM. To support this process, **features were engineered and selected using correlation analysis, visual inspection, and chi-square tests,** ensuring that only the most relevant attributes were retained. These inputs were then integrated into end-to-end **pipelines,** which streamlined data transformations and automated predictions.
 
-  Building on these foundations, the **three best performing models (Random Forest, XGBoost, and LightGBM) were combined into an ensemble using majority voting, leading to a 40.44% improvement in the F1-Score.** To provide transparency and deeper insights, model interpretability was finally addressed using the **SHAP library,** which explained feature contributions and the reasoning behind predictions.
+  Building on these foundations, the **three best performing models (Random Forest, XGBoost, and LightGBM) were combined into an ensemble using majority voting. To provide transparency and deeper insights, model interpretability was finally addressed using the **SHAP library,** which explained feature contributions and the reasoning behind predictions.
   
-  <img width="1823" height="888" alt="image" src="https://github.com/user-attachments/assets/260d68b0-eae5-4e4a-bf44-546b2590e34c" />
+  The results are shown as follows:
+
+| Metric          | Naive Bayes | Logistic Regression | Random Forest | SVC    | XGBoost | LightGBM | Majority Vote (RF+XGB+LGBM) |
+|-----------------|:-----------:|:-------------------:|:-------------:|:------:|:-------:|:--------:|:---------------------------:|
+| **Accuracy**    |   0.6565    |        0.9906       |     0.9980    | 0.9873 |  0.9934 |  0.9965  |           0.9976            |
+| **Precision**   |   0.0094    |        0.2297       |     0.8063    | 0.1837 |  0.3632 |  0.5280  |           0.6402            |
+| **Recall**      |   0.8410    |        0.6061       |     0.6462    | 0.6629 |  0.9552 |  0.8737  |           0.8741            |
+| **Specificity** |   0.6558    |        0.9921       |     0.9994    | 0.9886 |  0.9935 |  0.9970  |           0.9981            |
+| **F1-Score**    |   0.0186    |        0.3332       |     0.7174    | 0.2877 |  0.5263 |  0.6582  |           0.7391            |
+
+<p align="center">
+<img width="760" height="771" alt="image" src="https://github.com/user-attachments/assets/f9518ac7-3f87-4e39-bee5-cf2589e222ad" />
+</p>
 
 - 📝 **[Pre-training and Fine-tuning BERT from Scratch for Movie Review Classification][bert]** → BERT was the first deeply bidirectional model, unlike previous models that processed text only from left-to-right or right-to-left. To achieve this bidirectionality, it introduced two novel pre-training objectives: **Masked Language Modeling (MLM)**, where random tokens are hidden and predicted to capture context from both sides, and **Next Sentence Prediction (NSP),** which trains the model to understand sentence relationships.
 
