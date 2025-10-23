@@ -47,6 +47,15 @@ My journey into the world of coding began during my dual bachelor’s degree in 
   </video>
 </p>
 
+- **[Multi-Agent Marketing Platform for Business Intelligence, SQL Automation & Email Targeting][marketing]** → This project demonstrates the **capabilities of Machine Learning and Artificial Intelligence in marketing analytics.** By using language models, we can **generate SQL queries, analyze customer segments,** and **create targeted marketing strategies.**
+
+  In detail, this multi-agent AI system implements the following specialized agents:
+  - 📋 **Data Overview:** Provides an **introduction to the database** used in this project. Shows column names, data types, a brief description of each table and some visualizations to complete the answer.
+  - 🔍 **Data Exploration: Creates SQL queries** based on user input and provide insights from the data and some visualizations to complete the answer.
+  - 💼 **Business Analysis: Creates a business** report based on metrics like revenue, average order value, customer lifetime value.
+  - 📧 **Email Marketing: Identifies target emails and create personalized email campaigns.**
+  - 📣 **Marketing Strategy:** Identifies cluster of customers and **generate targeted marketing strategies for each segment.**
+
 #
 #### ✋ On Hold
 
@@ -92,6 +101,7 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 
 [naviria]: https://github.com/antoniocastajr/Naviria
+[marketing]: https://github.com/antoniocastajr/Marketing-Analyst
 [mcp]: https://modelcontextprotocol.io/docs/getting-started/intro
 [rag]: https://arxiv.org/pdf/2005.11401
 [langgraph]: https://python.langchain.com/docs/introduction/
