@@ -51,7 +51,7 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
   In detail, this multi-agent AI system implements the following specialized agents:
   - 📋 **Data Overview:** Provides an **introduction to the database** used in this project. Displays column names, data types, brief descriptions of each table, and visualizations to complement the analysis.
-  -🔍 **Data Exploration:** It a **SQL generator that translates natural language into database queries** and interprets insights automatically.
+  - 🔍 **Data Exploration:** It a **SQL generator that translates natural language into database queries** and interprets insights automatically.
   - 💼 **Business Analysis:** Produces a **business report based on key metrics** such as revenue, average order value, and customer lifetime value (CLV).
   - 📧 **Email Marketing:** Identifies target customers and **creates personalized email campaigns.**
   - 📣 **Marketing Strategy:** Segments customers into clusters and **generates targeted marketing strategies for each group.**
