@@ -47,7 +47,7 @@ My journey into the world of coding began during my dual bachelor’s degree in 
   </video>
 </p>
 
-- **[Multi-Agent Marketing Platform for Business Intelligence, SQL Automation & Email Targeting][marketing]** → This project demonstrates the **capabilities of Machine Learning and Artificial Intelligence in marketing analytics.** By using language models, we can **generate SQL queries, analyze customer segments,** and **create targeted marketing strategies.**
+- **[Multi-Agent Marketing Platform for Business Intelligence, SQL Automation & Email Targeting][marketing]** → This project demonstrates the **capabilities of Machine Learning and Artificial Intelligence in marketing analytics.** By using language models, we can generate SQL queries, analyze customer segments, and create targeted marketing strategies.
 
   In detail, this multi-agent AI system implements the following specialized agents:
   - 📋 **Data Overview:** Provides an **introduction to the database** used in this project. Displays column names, data types, brief descriptions of each table, and visualizations to complement the analysis.
