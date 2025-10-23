@@ -50,11 +50,11 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 - **[Multi-Agent Marketing Platform for Business Intelligence, SQL Automation & Email Targeting][marketing]** → This project demonstrates the **capabilities of Machine Learning and Artificial Intelligence in marketing analytics.** By using language models, we can **generate SQL queries, analyze customer segments,** and **create targeted marketing strategies.**
 
   In detail, this multi-agent AI system implements the following specialized agents:
-  - 📋 **Data Overview:** Provides an **introduction to the database** used in this project. Shows column names, data types, a brief description of each table and some visualizations to complete the answer.
-  - 🔍 **Data Exploration: Creates SQL queries** based on user input and provide insights from the data and some visualizations to complete the answer.
-  - 💼 **Business Analysis: Creates a business** report based on metrics like revenue, average order value, customer lifetime value.
-  - 📧 **Email Marketing: Identifies target emails and create personalized email campaigns.**
-  - 📣 **Marketing Strategy:** Identifies cluster of customers and **generate targeted marketing strategies for each segment.**
+  - 📋 **Data Overview:** Provides an **introduction to the database** used in this project. Displays column names, data types, brief descriptions of each table, and visualizations to complement the analysis.
+  -🔍 **Data Exploration:** It a **SQL generator that translates natural language into database queries** and interprets insights automatically.
+  - 💼 **Business Analysis:** Produces a **business report based on key metrics** such as revenue, average order value, and customer lifetime value (CLV).
+  - 📧 **Email Marketing:** Identifies target customers and **creates personalized email campaigns.**
+  - 📣 **Marketing Strategy:** Segments customers into clusters and **generates targeted marketing strategies for each group.**
 
 #
 #### ✋ On Hold
