@@ -26,6 +26,18 @@ My journey into the world of coding began during my dual bachelor’s degree in 
 
 #### 🔭 Currently Working On  
 
+- **[Multi-Agent Marketing Platform for Business Intelligence, SQL Automation & Email Targeting][marketing]** → Available at https://marketing-analyst.streamlit.app/.  This project demonstrates the **capabilities of Machine Learning and Artificial Intelligence in marketing analytics.** By using language models, we can generate SQL queries, analyze customer segments, and create targeted marketing strategies.
+
+  In detail, this multi-agent AI system implements the following specialized agents:
+  - 📋 **Data Overview:** Provides an **introduction to the database** used in this project. Displays column names, data types, brief descriptions of each table, and visualizations to complement the analysis.
+  - 🔍 **Data Exploration:** It a **SQL generator that translates natural language into database queries** and interprets insights automatically.
+  - 💼 **Business Analysis:** Produces a **business report based on key metrics** such as revenue, average order value, and customer lifetime value (CLV).
+  - 📧 **Email Marketing:** Identifies target customers and **creates personalized email campaigns.**
+  - 📣 **Marketing Strategy:** Segments customers into clusters and **generates targeted marketing strategies for each group.**
+
+<img width="1919" height="1134" alt="image" src="https://github.com/user-attachments/assets/71b859b3-52a3-4e47-92cb-853ff342f675" />
+
+
 - 🤖 **[Naviria: A Telegram AI Agent Powered by LangGraph, RAG, and MCP][naviria]** → Naviria is a conversational AI agent deployed on Telgram I’m building to learn and showcase the core technologies behind modern AI agents. It combines LLM reasoning by [LangGraph][langgraph], [Model Context Protocol (MCP)][mcp] for pluggable tools, and [Retrieval-Augmented Generation (RAG)][rag] with embeddings and a vector store. In detail, Naviria integrates the next selection of AI Agent's resources:
 
   - 🧩 **Advanced agentic logic:** Built on [LangGraph][langgraph], Naviria runs as a state machine, intelligently routing user requests across tools and knowledge sources.
@@ -46,16 +58,6 @@ My journey into the world of coding began during my dual bachelor’s degree in 
     width="720">
   </video>
 </p>
-
-- **[Multi-Agent Marketing Platform for Business Intelligence, SQL Automation & Email Targeting][marketing]** → This project demonstrates the **capabilities of Machine Learning and Artificial Intelligence in marketing analytics.** By using language models, we can generate SQL queries, analyze customer segments, and create targeted marketing strategies.
-
-  In detail, this multi-agent AI system implements the following specialized agents:
-  - 📋 **Data Overview:** Provides an **introduction to the database** used in this project. Displays column names, data types, brief descriptions of each table, and visualizations to complement the analysis.
-  - 🔍 **Data Exploration:** It a **SQL generator that translates natural language into database queries** and interprets insights automatically.
-  - 💼 **Business Analysis:** Produces a **business report based on key metrics** such as revenue, average order value, and customer lifetime value (CLV).
-  - 📧 **Email Marketing:** Identifies target customers and **creates personalized email campaigns.**
-  - 📣 **Marketing Strategy:** Segments customers into clusters and **generates targeted marketing strategies for each group.**
-
 #
 #### ✋ On Hold
 
