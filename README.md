@@ -35,7 +35,17 @@ My journey into the world of coding began during my dual bachelor’s degree in 
   - 📧 **Email Marketing:** Identifies target customers and **creates personalized email campaigns.**
   - 📣 **Marketing Strategy:** Segments customers into clusters and **generates targeted marketing strategies for each group.**
 
-<img width="1293" height="858" alt="image" src="https://github.com/user-attachments/assets/716d2886-747b-48d0-aa62-97bc83aad964" />
+<p align="center">
+  <video
+    src="https://github.com/user-attachments/assets/60fcc44f-3ac5-4367-8383-5b436f806943"
+    controls
+    muted
+    playsinline
+    loop
+    width="720" 
+    height="405">
+  </video>
+</p>
 
 - 🤖 **[Naviria: A Telegram AI Agent Powered by LangGraph, RAG, and MCP][naviria]** → Naviria is a conversational AI agent deployed on Telgram I’m building to learn and showcase the core technologies behind modern AI agents. It combines LLM reasoning by [LangGraph][langgraph], [Model Context Protocol (MCP)][mcp] for pluggable tools, and [Retrieval-Augmented Generation (RAG)][rag] with embeddings and a vector store. In detail, Naviria integrates the next selection of AI Agent's resources:
 
@@ -57,6 +67,7 @@ My journey into the world of coding began during my dual bachelor’s degree in 
     width="720">
   </video>
 </p>
+
 #
 #### ✋ On Hold
 
