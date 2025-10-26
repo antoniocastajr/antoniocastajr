@@ -35,6 +35,8 @@ My journey into the world of coding began during my dual bachelor’s degree in 
   - 📧 **Email Marketing:** Identifies target customers and **creates personalized email campaigns.**
   - 📣 **Marketing Strategy:** Segments customers into clusters and **generates targeted marketing strategies for each group.**
 
+The following demo shows the performance of the following agents; Data Exploration, Email Marketing, and Marketing Strategy.
+
 <p align="center">
   <video
     src="https://github.com/user-attachments/assets/60fcc44f-3ac5-4367-8383-5b436f806943"
