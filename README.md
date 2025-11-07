@@ -38,9 +38,10 @@ My journey into the world of coding began during my dual bachelor’s degree in 
   - 💼 **Business Analysis:** Produces a **business report based on key metrics** such as revenue, average order value, and customer lifetime value (CLV).
   - 📧 **Email Marketing:** Identifies target customers and **creates personalized email campaigns.**
   - 📣 **Marketing Strategy:** Segments customers into clusters and **generates targeted marketing strategies for each group.**
-
+<p align="center">
+<img width="784" height="277" alt="marketing_graph" src="https://github.com/user-attachments/assets/e92c6bb0-f9f8-44b7-a492-11b9e8ad5228" />
+</p>
 The following demo shows the performance of the following agents; Data Exploration, Email Marketing, and Marketing Strategy.
-
 <p align="center">
   <video
     src="https://github.com/user-attachments/assets/60fcc44f-3ac5-4367-8383-5b436f806943"
